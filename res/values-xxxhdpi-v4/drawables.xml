@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="od">r/x/od.9.png</item>
+    <item type="drawable" name="oe">r/x/oe.9.png</item>
+    <item type="drawable" name="of">r/x/of.9.png</item>
+    <item type="drawable" name="og">r/x/og.9.png</item>
+    <item type="drawable" name="oh">r/x/oh.9.png</item>
+    <item type="drawable" name="az1">r/x/az1.9.png</item>
+    <item type="drawable" name="az2">r/x/az2.9.png</item>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">Erreur liée aux services Google Play</string>
+    <string name="d1g">"Une application demande l'installation des services Google Play."</string>
+    <string name="d1h">Une application requiert la mise à jour des services Google Play.</string>
+    <string name="d1i">"Une application requiert l'activation des services Google Play."</string>
+    <string name="d1j">Demandée par %1$s</string>
+    <string name="d1k">Installer les services Google Play</string>
+    <string name="d1l">Cette application ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre téléphone.</string>
+    <string name="d1m">Cette application ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre tablette.</string>
+    <string name="d1n">Installer les services Google Play</string>
+    <string name="d1o">Activer les services Google Play</string>
+    <string name="d1p">"Cette application ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="d1q">Activer les services Google Play</string>
+    <string name="d1r">Mettre à jour les services Google Play</string>
+    <string name="d1s">"Cette application ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="d1t">Erreur réseau</string>
+    <string name="d1u">"Vous devez disposer d'une connexion de données pour utiliser les services Google Play."</string>
+    <string name="d1v">Compte erroné</string>
+    <string name="d1w">"Le compte indiqué n'existe pas sur cet appareil. Veuillez sélectionner un autre compte."</string>
+    <string name="d1x">Problème inconnu avec les services Google Play.</string>
+    <string name="d1y">Services Google Play</string>
+    <string name="d1z">"Les services Google Play, dont dépendent certaines de vos applications, ne sont pas compatibles avec votre appareil. Veuillez contacter le fabricant pour obtenir de l'aide."</string>
+    <string name="d20">"La date sur l'appareil semble incorrecte. Veuillez la vérifier."</string>
+    <string name="d21">Mettre à jour</string>
+    <string name="d22">Connexion</string>
+    <string name="d23">Se connecter via Google</string>
+</resources>

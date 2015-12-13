@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="animator" name="a">r/t/a.xml</item>
+    <item type="animator" name="b">r/t/b.xml</item>
+    <item type="animator" name="c">r/t/c.xml</item>
+    <item type="animator" name="d">r/t/d.xml</item>
+</resources>

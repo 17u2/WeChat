@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="f5">r/p/f5.xml</item>
+    <item type="layout" name="fx">r/p/fx.xml</item>
+</resources>

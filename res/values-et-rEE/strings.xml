@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">Viga Google Play teenustes</string>
+    <string name="d1g">Rakenduse kasutamiseks peavad olema installitud Google Play teenused.</string>
+    <string name="d1h">Rakenduse kasutamiseks tuleb värskendada Google Play teenuseid.</string>
+    <string name="d1i">Rakenduse kasutamiseks peavad olema lubatud Google Play teenused.</string>
+    <string name="d1j">Taotluse esitas %1$s</string>
+    <string name="d1k">Hankige Google Play teenused</string>
+    <string name="d1l">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie telefonis pole.</string>
+    <string name="d1m">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie tahvelarvutis pole.</string>
+    <string name="d1n">Hankige Google Play teenused</string>
+    <string name="d1o">Lubage Google Play teenused</string>
+    <string name="d1p">See rakendus ei tööta, kui te ei luba Google Play teenuseid.</string>
+    <string name="d1q">Lubage Google Play teenused</string>
+    <string name="d1r">Värskendage Google Play teenuseid</string>
+    <string name="d1s">Seda rakendust ei saa käitada, kui te ei värskenda Google Play teenuseid.</string>
+    <string name="d1t">Võrgu viga</string>
+    <string name="d1u">Google Play teenustega ühenduse loomiseks on vajalik andmesideühendus.</string>
+    <string name="d1v">Vale konto</string>
+    <string name="d1w">Määratud kontot pole selles seadmes olemas. Valige muu konto.</string>
+    <string name="d1x">Google Play teenuste tundmatu probleem.</string>
+    <string name="d1y">Google Play teenused</string>
+    <string name="d1z">Teie seade ei toeta Google Play teenuseid, millele mõni teie rakendustest toetub. Abi saamiseks võtke ühendust tootjaga.</string>
+    <string name="d20">Seadme kuupäev paistab olevat vale. Kontrollige seadme kuupäeva.</string>
+    <string name="d21">Värskenda</string>
+    <string name="d22">Logi sisse</string>
+    <string name="d23">"Logi sisse Google'iga"</string>
+</resources>

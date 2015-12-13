@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">„Google Play“ paslaugų klaida</string>
+    <string name="d1g">Norint naudoti programą būtina įdiegti „Google Play“ paslaugas.</string>
+    <string name="d1h">Norint naudoti programą būtina atnaujinti „Google Play“ paslaugas.</string>
+    <string name="d1i">Norint naudoti programą būtina įgalinti „Google Play“ paslaugas.</string>
+    <string name="d1j">Užklausą pateikė „%1$s“</string>
+    <string name="d1k">Gauti „Google Play“ paslaugų</string>
+    <string name="d1l">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos telefone.</string>
+    <string name="d1m">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos planšetiniame kompiuteryje.</string>
+    <string name="d1n">Gauti „Google Play“ paslaugų</string>
+    <string name="d1o">Įgalinti „Google Play“ paslaugas</string>
+    <string name="d1p">Ši programa neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="d1q">Įgal. „Google Play“ paslaugas</string>
+    <string name="d1r">Atnaujinti „Google Play“ paslaugas</string>
+    <string name="d1s">Ši programa neveiks, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="d1t">Tinklo klaida</string>
+    <string name="d1u">Norint prisijungti prie „Google Play“ paslaugų reikia duomenų ryšio.</string>
+    <string name="d1v">Netinkama paskyra</string>
+    <string name="d1w">Nurodytos paskyros šiame įrenginyje nėra. Pasirinkite kitą paskyrą.</string>
+    <string name="d1x">Nežinoma „Google Play“ paslaugų problema.</string>
+    <string name="d1y">„Google Play“ paslaugos</string>
+    <string name="d1z">Jūsų įrenginys nepalaiko „Google Play“ paslaugų, kuriomis remiasi kai kurios programos. Jei reikia pagalbos, susisiekite su gamintoju.</string>
+    <string name="d20">Įrenginyje nurodyta data neteisinga. Patikrinkite įrenginyje nurodytą datą.</string>
+    <string name="d21">Atnaujinti</string>
+    <string name="d22">Prisij.</string>
+    <string name="d23">Prisij. naud. „Google“</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="avr">微信</string>
+    <string name="avs">微信</string>
+    <string name="avt">发送给朋友</string>
+    <string name="avu">发送到朋友圈</string>
+    <string name="avv">添加到微信收藏</string>
+    <string name="d1f">Google Play服务出错</string>
+    <string name="d1g">安装Google Play服务后才能运行应用。</string>
+    <string name="d1h">更新Google Play服务后才能运行应用。</string>
+    <string name="d1i">启用Google Play服务后才能运行应用。</string>
+    <string name="d1j">由“%1$s”发出</string>
+    <string name="d1k">获取 Google Play 服务</string>
+    <string name="d1l">您的手机中没有 Google Play 服务，您必须先安装该服务才能运行此应用。</string>
+    <string name="d1m">您的平板电脑中没有 Google Play 服务，您必须先安装该服务才能运行此应用。</string>
+    <string name="d1n">获取 Google Play 服务</string>
+    <string name="d1o">启用 Google Play 服务</string>
+    <string name="d1p">您必须先启用 Google Play 服务才能运行此应用。</string>
+    <string name="d1q">启用 Google Play 服务</string>
+    <string name="d1r">更新 Google Play 服务</string>
+    <string name="d1s">您必须先更新 Google Play 服务才能运行此应用。</string>
+    <string name="d1t">网络错误</string>
+    <string name="d1u">您必须有数据网络连接才能接入 Google Play 服务。</string>
+    <string name="d1v">无效帐户</string>
+    <string name="d1w">此设备上不存在指定的帐户，请选择其他帐户。</string>
+    <string name="d1x">Google Play 服务出现未知问题。</string>
+    <string name="d1y">Google Play 服务</string>
+    <string name="d1z">您的设备不支持部分应用所依赖的 Google Play 服务。请与设备制造商联系，以寻求帮助。</string>
+    <string name="d20">设备上的日期似乎不正确，请在设备上检查日期。</string>
+    <string name="d21">更新</string>
+    <string name="d22">登录</string>
+    <string name="d23">使用 Google 帐户登录</string>
+</resources>

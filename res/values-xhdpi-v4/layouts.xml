@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="id">r/u/id.xml</item>
+    <item type="layout" name="ie">r/u/ie.xml</item>
+    <item type="layout" name="qm">r/u/qm.xml</item>
+    <item type="layout" name="qn">r/u/qn.xml</item>
+    <item type="layout" name="a6j">r/u/a6j.xml</item>
+</resources>

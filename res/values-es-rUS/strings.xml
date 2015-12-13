@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">Error de Google Play Services</string>
+    <string name="d1g">Una aplicación requiere que se instale Google Play Services</string>
+    <string name="d1h">Una aplicación requiere que se actualice Google Play Services</string>
+    <string name="d1i">Una aplicación requiere que se habilite Google Play Services</string>
+    <string name="d1j">Solicitada por %1$s</string>
+    <string name="d1k">Obtener Google Play Services</string>
+    <string name="d1l">Esta aplicación no se ejecutará si no instalasGoogle Play Services en tu dispositivo.</string>
+    <string name="d1m">Esta aplicación no se ejecutará si no instalas Google Play Services en tu tablet.</string>
+    <string name="d1n">Descargar Google Play Services</string>
+    <string name="d1o">Activar Google Play Services</string>
+    <string name="d1p">Esta aplicación no funcionará si no activas Google Play Services.</string>
+    <string name="d1q">Activar Google Play Services</string>
+    <string name="d1r">Actualizar Google Play Services</string>
+    <string name="d1s">Esta aplicación no se ejecutará si no actualizas Google Play Services.</string>
+    <string name="d1t">Error de red</string>
+    <string name="d1u">Se necesita una conexión de datos para establecer conexión con Google Play Services.</string>
+    <string name="d1v">Cuenta no válida</string>
+    <string name="d1w">La cuenta especificada no existe en este dispositivo. Elige otra cuenta.</string>
+    <string name="d1x">Error desconocido relacionado con Google Play Services</string>
+    <string name="d1y">Google Play Services</string>
+    <string name="d1z">Google Play Services, del cual dependen algunas de tus aplicaciones, no es compatible con tu dispositivo. Comunícate con el fabricante para obtener ayuda.</string>
+    <string name="d20">Parece que la fecha del dispositivo es incorrecta. ¿Puedes revisarla?</string>
+    <string name="d21">Actualizar</string>
+    <string name="d22">Acceder</string>
+    <string name="d23">Acceder con Google</string>
+</resources>

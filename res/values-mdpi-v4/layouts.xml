@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="id">r/n/id.xml</item>
+    <item type="layout" name="ie">r/n/ie.xml</item>
+    <item type="layout" name="qm">r/n/qm.xml</item>
+    <item type="layout" name="qn">r/n/qn.xml</item>
+    <item type="layout" name="rd">r/n/rd.xml</item>
+    <item type="layout" name="wx">r/n/wx.xml</item>
+    <item type="layout" name="a_u">r/n/a_u.xml</item>
+    <item type="layout" name="a_v">r/n/a_v.xml</item>
+</resources>

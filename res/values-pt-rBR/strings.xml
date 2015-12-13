@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">Erro do Google Play Services</string>
+    <string name="d1g">Um aplicativo requer a instalação do Google Play Services.</string>
+    <string name="d1h">Um aplicativo requer a atualização do Google Play Services.</string>
+    <string name="d1i">Um aplicativo requer a ativação do Google Play Services.</string>
+    <string name="d1j">Solicitado por %1$s</string>
+    <string name="d1k">Instale o Google Play Services</string>
+    <string name="d1l">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu telefone.</string>
+    <string name="d1m">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu tablet.</string>
+    <string name="d1n">Instalar o Google Play Services</string>
+    <string name="d1o">Ative o Google Play Services</string>
+    <string name="d1p">Este aplicativo só funciona com o Google Play Services ativado.</string>
+    <string name="d1q">Ativar o Google Play Services</string>
+    <string name="d1r">Atualize o Google Play Services</string>
+    <string name="d1s">Este aplicativo só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="d1t">Erro na rede</string>
+    <string name="d1u">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+    <string name="d1v">Conta inválida</string>
+    <string name="d1w">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+    <string name="d1x">Problema desconhecido com o Google Play Services.</string>
+    <string name="d1y">Play Services</string>
+    <string name="d1z">O Google Play Services, necessário para alguns dos aplicativos, não é compatível com seu dispositivo. Entre em contato com o fabricante para obter assistência.</string>
+    <string name="d20">A data no dispositivo parece incorreta. Verifique a data no dispositivo.</string>
+    <string name="d21">Atualizar</string>
+    <string name="d22">Login</string>
+    <string name="d23">Fazer login com o Google</string>
+</resources>

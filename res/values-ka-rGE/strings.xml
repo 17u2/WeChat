@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">Google Play Services-ის შეცდომა</string>
+    <string name="d1g">აპლიკაცია საჭიროება Google Play Services-ის ინსტალაციას.</string>
+    <string name="d1h">აპლიკაცია საჭიროებს Google Play Services-ის განახლებას.</string>
+    <string name="d1i">აპლიკაცია საჭიროებს გააქტიურებულ Google Play Services.</string>
+    <string name="d1j">მომთხოვნი: %1$s</string>
+    <string name="d1k">Google Play სერვისების მიღება</string>
+    <string name="d1l">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="d1m">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="d1n">Google Play სერვისების მიღება</string>
+    <string name="d1o">Google Play სერვისების გააქტიურება</string>
+    <string name="d1p">ეს აპი არ იმუშავებს, თუ არ გაააქტიურებთ Google Play სერვისებს.</string>
+    <string name="d1q">Google Play სერვისების გააქტიურება</string>
+    <string name="d1r">Google Play სერვისების განახლება</string>
+    <string name="d1s">ეს აპი ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="d1t">ქსელის შეცდომა</string>
+    <string name="d1u">Google Play Services-თან დასაკავშირებლად მონაცემთა გადაცემა აუცილებელია.</string>
+    <string name="d1v">ანგარიში არასწორია</string>
+    <string name="d1w">მითითებული ანგარიში ამ მოწყობილობაზე არ არსებობს. გთხოვთ, აირჩიოთ სხვა ანგარიში.</string>
+    <string name="d1x">Google Play სერვისებთან დაკავშირებით უცნობი შეფერხება წარმოიშვა.</string>
+    <string name="d1y">Google Play სერვისები</string>
+    <string name="d1z">Google Play სერვისები, რაც თქვენს ზოგიერთ აპს ჭირდება, თქვენს მოწყობილობაზე მხარდაჭერილი არ არის. გთხოვთ, დაუკავშირდეთ მწარმოებელს დახმარებისათვის.</string>
+    <string name="d20">როგორც ჩანს, მოწყობილობის თარიღი არასწორია. გთხოვთ, შეამოწმოთ მოწყობილობის თარიღი.</string>
+    <string name="d21">განახლება</string>
+    <string name="d22">შესვლა</string>
+    <string name="d23">Google-ით შესვლა</string>
+</resources>

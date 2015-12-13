@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="avr">WeChat</string>
+    <string name="avs">WeChat</string>
+    <string name="avt">WeChat</string>
+    <string name="avu">WeChat Moments</string>
+    <string name="avv">WeChat အႀကိဳက္ႏွစ္သက္မွုမ်ား</string>
+    <string name="bm9">လက္ေဗြ ေငြေခ်မႈ</string>
+    <string name="bm_">ဖုန္းရွိ ဆက္တင္ထဲတြင္ လက္ေဗြကုိ သင္သတ္မွတ္ၿပီးပါက WeChat ေငြေခ်မႈအတြက္ ၎ကုိ အသံုးျပဳႏုိင္သည္။ ယခု သတ္မွတ္မလား။</string>
+    <string name="bma">လက္ေဗြ စကားဝွက္ကုိ ပံ့ပုိးေပးထားသည္။ ၎ကုိ WeChat ေငြေခ်မႈအတြက္ အသံုးျပဳမလား။</string>
+    <string name="bmb">လက္ေဗြ စစ္ေဆးအတည္ျပဳမည္</string>
+    <string name="bmc">"ထပ္ႀကိဳးစားပါ!
+သင္လက္ေဗြကုိ သတ္မွတ္္ၿပီးေၾကာင္း ေသခ်ာပါေစ!"</string>
+    <string name="bmd">ေအာင္ျမင္စြာဖြင့္ႏိုင္ခဲ့သည္</string>
+    <string name="bme">လက္ေဗြ ေငြေခ်မႈကုိ ဖြင့္၍ မရႏုိင္ပါ။</string>
+    <string name="bmf">လက္ေဗြ ေငြေခ်မႈကုိ ပိတ္မလား။</string>
+    <string name="bmg">ပိတ္၍ မရႏုိင္ပါ။ ျပန္ၾကိဳးစားပါ္။</string>
+    <string name="bmh">လက္ေဗြ ေငြေခ်မႈကုိ ပိတ္မည္</string>
+    <string name="bmi">သတ္မွတ္မည္</string>
+    <string name="bmj">ဖြင္႔ထားမည္</string>
+    <string name="bmk">လက္ေဗြကုိ သတ္မွတ္လိုက္ၿပီး ယခု WeChat ေငြေပးေခ်မႈမ်ားအတြက္ အသံုးျပဳႏုိင္ပါၿပီ။</string>
+    <string name="bml">လက္ေဗြ ေငြေခ်မႈကုိ ဖြင့္ထားၿပီးျဖစ္ကာ ေငြေပးေခ်မႈမ်ားကုိ ခြင့္ျပဳရန္ ယခု အသံုးျပဳႏုိင္ပါၿပီ။</string>
+    <string name="bmm">ျပန္ၾကိဳးစားပါ</string>
+    <string name="byj">file:///android_asset/doc/en/network_warning.htm</string>
+    <string name="byk">file:///android_asset/doc/default/oauth_network_error.html</string>
+    <string name="byl">file:///android_asset/doc/en/qqsync_intro.htm</string>
+    <string name="bym">file:///android_asset/doc/en/qqsync_privacy.htm</string>
+    <string name="byn">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_msgtrans_agreement&amp;lang=en</string>
+    <string name="byo">http://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/record_sync__course&amp;lang=zh_CN</string>
+    <string name="byp">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_chat_migration_faq&amp;lang=zh_CN</string>
+    <string name="byq">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_contract_agreement&amp;lang=en</string>
+    <string name="byr">\?hl=en</string>
+    <string name="bys">http://weixin.qq.com/agreement?lang=en</string>
+    <string name="byt">http://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&amp;check=false&amp;t=weixin_agreement&amp;s=terms</string>
+    <string name="byu">http://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&amp;check=false&amp;t=weixin_agreement&amp;s=privacy</string>
+    <string name="byv">http://support.wechat.com/getpassword?lang=en</string>
+    <string name="byw">http://aq.qq.com/zm?source_id=2757</string>
+    <string name="byx">http://open.weixin.qq.com/emoticon#wechat_redirect</string>
+    <string name="byy">http://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/payment_security__intro</string>
+    <string name="byz">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_small_pay</string>
+    <string name="bz0">http://action.weixin.qq.com/payact/readtemplate?t=mobile/shuaka/help_tmpl</string>
+    <string name="bz1">sound/play_completed.mp3</string>
+    <string name="bz2">sound/time_limit.mp3</string>
+    <string name="bz3">sound/after_upload_voice.mp3</string>
+    <string name="bz4">sound/qrcode_completed.mp3</string>
+    <string name="bz5">sound/talkroom_begin.mp3</string>
+    <string name="bz6">sound/talkroom_press.mp3</string>
+    <string name="bz7">sound/talkroom_sasasa.mp3</string>
+    <string name="bz8">sound/talkroom_othersbegin.mp3</string>
+    <string name="bz9">sound/talkroom_up.mp3</string>
+    <string name="bz_">sound/shake_sound_male.mp3</string>
+    <string name="bza">sound/shake_nomatch.mp3</string>
+    <string name="bzb">sound/shake_match.mp3</string>
+    <string name="bzc">sound/shakelucky_firework_sound.mp3</string>
+    <string name="bzd">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_pay&amp;lang=%s</string>
+    <string name="bze">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_agreement&amp;lang=%s</string>
+    <string name="bzf" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_bank&amp;lang=%s&amp;banktype=%s</string>
+    <string name="bzg" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_person_pay&amp;lang=%s&amp;banktype=%s</string>
+    <string name="bzh" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_bank_wxcredit&amp;lang=%s&amp;banktype=%s</string>
+    <string name="bzi">http://weixin.qq.com/cgi-bin/readtemplate?&amp;lang=en&amp;check=false&amp;t=weixin_agreement&amp;s=pay#point</string>
+    <string name="bzj">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_emoji_agreement&amp;lang=</string>
+    <string name="bzk">http://weixin.qq.com/cgi-bin/readtemplate?lang=%s&amp;t=weixin_groupOwnerResponsibility</string>
+    <string name="bzl">http://weixin.qq.com/cgi-bin/readtemplate?lang=%s&amp;t=weixin_howToAdjustGroupNum</string>
+    <string name="bzm">http://weixin110.qq.com/?lang=</string>
+    <string name="bzn" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fproduct%2Fwechat_platform_app.html%3FADTAG%3Dveda.wechat.app%26tj_src%3Dapp&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="bzo" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fproduct%2Fwechat_cht_platform_app.html%3FADTAG%3Dveda.wechat.app%26tj_src%3Dapp&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="bzp" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fproduct%2Fwechat_en_platform_app.html%3FADTAG%3Dveda.wechat.app%26tj_src%3Dapp&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="bzq">file:///android_asset/doc/default/wx_wifi_faq.html</string>
+    <string name="bzr">file:///android_asset/doc/default/wx_wifi_service_terms_chs.html</string>
+    <string name="bzs">file:///android_asset/doc/default/mig_wifi_service_terms_chs.html</string>
+    <string name="bzt">file:///android_asset/doc/default/wx_feedback_index.html</string>
+    <string name="bzu">https://support.weixin.qq.com/security/readtemplate?t=page/login_optimized__w_index&amp;lang=</string>
+    <string name="bzv">https://support.weixin.qq.com/getpassword?lang=</string>
+    <string name="bzw">http://weixin.qq.com/cgi-bin/readtemplate?t=emotion/wap/complain/msg_tmpl&amp;lang=</string>
+</resources>

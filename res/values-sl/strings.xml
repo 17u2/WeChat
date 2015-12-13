@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">Napaka storitev Google Play</string>
+    <string name="d1g">Za delovanje aplikacije morate namestiti storitve Google Play.</string>
+    <string name="d1h">Za delovanje aplikacije morate posodobiti storitve Google Play.</string>
+    <string name="d1i">Za delovanje aplikacije morate omogočiti storitve Google Play.</string>
+    <string name="d1j">Zahteva aplikacije %1$s</string>
+    <string name="d1k">Namestite storitve Google Play</string>
+    <string name="d1l">Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v telefonu.</string>
+    <string name="d1m">Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v tabličnem računalniku.</string>
+    <string name="d1n">Namestite storitve Google Play</string>
+    <string name="d1o">Omogočite storitve Google Play</string>
+    <string name="d1p">Aplikacija ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string name="d1q">Omogočite storitve Google Play</string>
+    <string name="d1r">Posodobite storitve Google Play</string>
+    <string name="d1s">Ta aplikacija ne deluje, če ne posodobite storitev Google Play.</string>
+    <string name="d1t">Omrežna napaka</string>
+    <string name="d1u">Za povezavo s storitvami Google Play potrebujete internetno povezavo.</string>
+    <string name="d1v">Neveljaven račun</string>
+    <string name="d1w">V tej napravi ne obstaja navedeni račun. Izberite drugega.</string>
+    <string name="d1x">Neznana težava s storitvami Google Play.</string>
+    <string name="d1y">Storitve Google Play</string>
+    <string name="d1z">Vaša naprava na podpira storitev Google Play, ki jih potrebujejo nekatere od vaših aplikacij. Za pomoč se obrnite na izdelovalca.</string>
+    <string name="d20">Videti je, da je datum v napravi napačen. Preverite ga.</string>
+    <string name="d21">Posodobi</string>
+    <string name="d22">Prijava</string>
+    <string name="d23">Prijavite se v Google</string>
+</resources>

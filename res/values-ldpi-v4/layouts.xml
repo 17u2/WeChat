@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="bw">r/l/bw.xml</item>
+    <item type="layout" name="e2">r/l/e2.xml</item>
+    <item type="layout" name="rd">r/l/rd.xml</item>
+    <item type="layout" name="wx">r/l/wx.xml</item>
+    <item type="layout" name="a_u">r/l/a_u.xml</item>
+    <item type="layout" name="a_v">r/l/a_v.xml</item>
+</resources>

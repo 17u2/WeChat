@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">Erro dos Serviços do Google Play</string>
+    <string name="d1g">Uma aplicação necessita da instalação dos Serviços do Google Play.</string>
+    <string name="d1h">Uma aplicação necessita da atualização dos Serviços do Google Play.</string>
+    <string name="d1i">Uma aplicação necessita da ativação dos Serviços do Google Play.</string>
+    <string name="d1j">Pedida por %1$s</string>
+    <string name="d1k">Obter serviços do Google Play</string>
+    <string name="d1l">Esta aplicação não será executada sem os serviços do Google Play, que estão em falta no seu telemóvel.</string>
+    <string name="d1m">Esta aplicação não será executada sem os serviços do Google Play, que estão em falta no seu tablet.</string>
+    <string name="d1n">Obter serviços do Google Play</string>
+    <string name="d1o">Ativar serviços do Google Play</string>
+    <string name="d1p">Esta aplicação não funcionará enquanto não ativar os serviços do Google Play.</string>
+    <string name="d1q">Ativar serviços do Google Play</string>
+    <string name="d1r">Atualizar serviços do Google Play</string>
+    <string name="d1s">Esta aplicação não será executada enquanto não atualizar os serviços do Google Play.</string>
+    <string name="d1t">Erro de Rede</string>
+    <string name="d1u">É necessária uma ligação de dados para se ligar aos Serviços do Google Play.</string>
+    <string name="d1v">Conta Inválida</string>
+    <string name="d1w">A conta especificada não existe neste dispositivo. Escolha uma conta diferente.</string>
+    <string name="d1x">Problema desconhecido nos serviços do Google Play.</string>
+    <string name="d1y">Serviços do Google Play</string>
+    <string name="d1z">Os serviços do Google Play, dos quais dependem algumas das suas aplicações, não são suportados pelo seu dispositivo. Contacte o fabricante para obter assistência.</string>
+    <string name="d20">A data no dispositivo parece estar incorreta. Verifique a data no dispositivo.</string>
+    <string name="d21">Atualizar</string>
+    <string name="d22">Inic. ses.</string>
+    <string name="d23">Inic. sessão com o Google</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="g7">45.0dip</dimen>
+    <dimen name="g8">45.0dip</dimen>
+    <dimen name="g9">24.0dip</dimen>
+    <dimen name="g_">6.0dip</dimen>
+    <dimen name="ga">5.0dip</dimen>
+    <dimen name="gb">180.0dip</dimen>
+    <dimen name="kz">32.0dip</dimen>
+    <dimen name="l0">6.0dip</dimen>
+    <dimen name="l1">40.0dip</dimen>
+    <dimen name="l2">30.0dip</dimen>
+    <dimen name="l3">36.0dip</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="a4s">r/g/a4s.xml</item>
+    <item type="layout" name="a4t">r/g/a4t.xml</item>
+    <item type="layout" name="a_q">r/g/a_q.xml</item>
+</resources>

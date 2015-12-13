@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="d1f">Грешка Google Play услуга</string>
+    <string name="d1g">Апликација захтева инсталацију Google Play услуга.</string>
+    <string name="d1h">Апликација захтева ажурирање Google Play услуга.</string>
+    <string name="d1i">Апликација захтева да Google Play услуге буду омогућене.</string>
+    <string name="d1j">Захтева %1$s</string>
+    <string name="d1k">Преузимање Google Play услуга</string>
+    <string name="d1l">Ова апликација не може да се покрене без Google Play услуга, које недостају на телефону.</string>
+    <string name="d1m">Ова апликација не може да се покрене без Google Play услуга, које недостају на таблету.</string>
+    <string name="d1n">Преузми Google Play услуге</string>
+    <string name="d1o">Омогућавање Google Play услуга</string>
+    <string name="d1p">Ова апликација неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="d1q">Омогући Google Play услуге</string>
+    <string name="d1r">Ажурирање Google Play услуга</string>
+    <string name="d1s">Ова апликација не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="d1t">Грешка на мрежи</string>
+    <string name="d1u">За повезивање са Google Play услугама потребна је веза за пренос података.</string>
+    <string name="d1v">Неважећи налог</string>
+    <string name="d1w">Наведени налог не постоји на овом уређају. Одаберите други налог.</string>
+    <string name="d1x">Непознат проблем са Google Play услугама.</string>
+    <string name="d1y">Google Play услуге</string>
+    <string name="d1z">Google Play услуге, које су потребне за функционисање неких од апликација, нису подржане на уређају. Контактирајте произвођача да бисте добили помоћ.</string>
+    <string name="d20">Изгледа да су подаци на уређају нетачни. Проверите датум на уређају.</string>
+    <string name="d21">Ажурирај</string>
+    <string name="d22">Пријави ме</string>
+    <string name="d23">Пријави ме преко Google-а</string>
+</resources>
